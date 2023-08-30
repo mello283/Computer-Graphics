@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MorrisonLab03/1.0.0": {
+        "runtime": {
+          "MorrisonLab03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MorrisonLab03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
